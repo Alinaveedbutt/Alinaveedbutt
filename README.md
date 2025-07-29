@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Ali Naveed, and I'm a Computer Science undergrad at FCCU. I'm interested in C++, Python, Data Structures & ML!
 
