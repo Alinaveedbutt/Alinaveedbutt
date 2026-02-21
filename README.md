@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Ali Naveed, and I'm a Computer Science undergrad at FCCU. I'm interested in C++, Python, Data Structures & ML!
+My name is Ali Naveed, and I'm a Computer Science undergrad at FCCU. I'm interested in Python, C, C++, HTML, CSS and Java!
 
 - 🌱 I'm currently learning Python, DSA, and LeetCode basics  
 - 🔧 My projects so far are C++ games & management systems  
